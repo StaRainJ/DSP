@@ -13,7 +13,7 @@
 ```
 
 ### Requirements
-Successfully test on Matlab 2016b! 
+Successfully test with Matlab 2016b! 
 
 VLFeat: https://www.vlfeat.org/
 
