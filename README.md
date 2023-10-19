@@ -4,7 +4,7 @@
 
  Jiang Xingyu, Ma Jiayi. Robust Model Reasoning and Fitting via Dual Sparsity Pursuit. NeurIPS 2023 
 ```bash
- @inproceedings{Jiang2023dsp,
+ @inproceedings{jiang2023dsp,
 	title={Robust Model Reasoning and Fitting via Dual Sparsity Pursuit},
 	author={Jiang Xingyu, Ma Jiayi},
         booktitle={Advances in Neural Information Processing Systems},
