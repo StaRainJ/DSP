@@ -1,6 +1,7 @@
 #  Code of “Robust Model Reasoning and Fitting via Dual Sparsity Pursuit” NeurIPS 2023 (Spotlight)
 ### Requirements
-Successfully test on Matlab 2016b.
+Successfully test on Matlab 2016b! 
+vealfeat: https://www.vlfeat.org/
 
 # Run the code
 
