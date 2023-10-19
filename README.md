@@ -3,7 +3,9 @@
  Successfully test on Matlab 2016b.
 
 ![image](https://github.com/StaRainJ/DSP/blob/main/fig/Fig1.png)
+
 ![image](https://github.com/StaRainJ/DSP/blob/main/fig/TabDataEmbedding.png)
+
 
 # Please kindly cite this paper if you use the code in this repository as part of a published research project.
 
