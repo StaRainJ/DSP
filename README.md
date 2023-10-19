@@ -54,7 +54,8 @@ run Demo4UnknownModel.m
 
 
  <figure class="half">
-     | <img src="https://github.com/StaRainJ/DSP/blob/main/fig/FigMatchResults.png" width="200"/> | <img src="https://github.com/StaRainJ/DSP/blob/main/fig/TabModelReasoning.png" width="200"/> |
+      <img src="https://github.com/StaRainJ/DSP/blob/main/fig/FigMatchResults.png" width="200"/>
+      <img src="https://github.com/StaRainJ/DSP/blob/main/fig/TabModelReasoning.png" width="200"/>
  </figure>
 
 ### Exact model fitting results:
