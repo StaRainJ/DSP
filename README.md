@@ -1,4 +1,9 @@
 #  Code of “Robust Model Reasoning and Fitting via Dual Sparsity Pursuit” NeurIPS 2023 (Spotlight)
+
+### Please kindly cite this paper if you use the code in this repository as part of a published research project.
+
+ Jiang Xingyu, Ma Jiayi. Robust Model Reasoning and Fitting via Dual Sparsity Pursuit. NeurIPS 2023 
+ 
 ### Requirements
 Successfully test on Matlab 2016b! 
 
@@ -32,6 +37,4 @@ run Demo4UnknownModel.m
 ![image](https://github.com/StaRainJ/DSP/blob/main/fig/TabDataEmbedding.png)
 
 
-# Please kindly cite this paper if you use the code in this repository as part of a published research project.
 
- Jiang Xingyu, Ma Jiayi. Robust Model Reasoning and Fitting via Dual Sparsity Pursuit. NeurIPS 2023 
