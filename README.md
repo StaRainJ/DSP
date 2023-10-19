@@ -2,6 +2,8 @@
 
  Successfully test on Matlab 2016b.
 
+Illustration of sparse subspace recovery:
+
 ![image](https://github.com/StaRainJ/DSP/blob/main/fig/Fig1.png)
 
 Data Embedding of Existing Methods and our DSP:
