@@ -53,6 +53,10 @@ run Demo4UnknownModel.m
 [quantitative result]
 
 
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![]([https://...Dark.png](https://github.com/StaRainJ/DSP/blob/main/fig/FigMatchResults.png))  |  ![]([https://...Ocean.png](https://github.com/StaRainJ/DSP/blob/main/fig/TabModelReasoning.png))
+
  <figure class="half">
       <img src="https://github.com/StaRainJ/DSP/blob/main/fig/FigMatchResults.png" width="200"/>
       <img src="https://github.com/StaRainJ/DSP/blob/main/fig/TabModelReasoning.png" width="200"/>
