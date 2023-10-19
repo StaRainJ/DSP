@@ -7,7 +7,7 @@
  @inproceedings{Jiang2023dsp,
 	title={Robust Model Reasoning and Fitting via Dual Sparsity Pursuit},
 	author={Jiang Xingyu, Ma Jiayi},
- booktitle={Advances in Neural Information Processing Systems},
+        booktitle={Advances in Neural Information Processing Systems},
 	year={2023}
 }
 ```
