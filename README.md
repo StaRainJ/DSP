@@ -1,2 +1,7 @@
-# DSP
- Code of “Robust Model Reasoning and Fitting via Dual Sparsity Pursuit” NeurIPS 2023 (Spotlight)
+#  Code of “Robust Model Reasoning and Fitting via Dual Sparsity Pursuit” NeurIPS 2023 (Spotlight)
+
+ Successfully test on Matlab 2016b.
+
+# Please kindly cite this paper if you use the code in this repository as part of a published research project.
+
+ Jiang Xingyu, Ma Jiayi. Robust Model Reasoning and Fitting via Dual Sparsity Pursuit. NeurIPS 2023 
