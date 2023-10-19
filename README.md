@@ -47,8 +47,8 @@ run Demo4UnknownModel.m
 # Results
 ### Unknown model reasoning results:
 
-qualitative result         |  quantitative result
-:-------------------:|:----------------------------:
+qualitative result   |  quantitative result
+:-------------------:|:--------------------------------------:
 ![](https://github.com/StaRainJ/DSP/blob/main/fig/FigMatchResults.png)  |  ![](https://github.com/StaRainJ/DSP/blob/main/fig/TabModelReasoning.png)
 
 ### Exact model fitting results:
