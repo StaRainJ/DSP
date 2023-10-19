@@ -46,15 +46,9 @@ run Demo4UnknownModel.m
 
 # Results
 ### Unknown model reasoning results:
-[qualitative result]
 
-![image](https://github.com/StaRainJ/DSP/blob/main/fig/FigMatchResults.png)![image](https://github.com/StaRainJ/DSP/blob/main/fig/TabModelReasoning.png)
-
-[quantitative result]
-
-
-Solarized dark             |  Solarized Ocean
-:-------------------------:|:-------------------------:
+qualitative result         |  quantitative result
+:----------------------:|:-------------------------:
 ![](https://github.com/StaRainJ/DSP/blob/main/fig/FigMatchResults.png)  |  ![](https://github.com/StaRainJ/DSP/blob/main/fig/TabModelReasoning.png)
 
  <figure class="half">
