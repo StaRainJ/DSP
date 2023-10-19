@@ -44,5 +44,21 @@ run Demo4UnknownModel.m
 
 ![image](https://github.com/StaRainJ/DSP/blob/main/fig/TabDataEmbedding.png)
 
+# Results
+### Unknown model reasoning results:
+[qualitative result]
 
+![image](https://github.com/StaRainJ/DSP/blob/main/fig/FigMatchResults.png)
 
+[quantitative result]
+
+![image](https://github.com/StaRainJ/DSP/blob/main/fig/TabModelReasoning.png)
+
+### Exact model fitting results:
+[hard datasets]
+
+![image](https://github.com/StaRainJ/DSP/blob/main/fig/FigDatasets1.png)
+
+[easy datasets]
+
+![image](https://github.com/StaRainJ/DSP/blob/main/fig/FigDatasets2.png)
