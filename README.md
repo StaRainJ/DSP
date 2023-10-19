@@ -1,6 +1,24 @@
 #  Code of “Robust Model Reasoning and Fitting via Dual Sparsity Pursuit” NeurIPS 2023 (Spotlight)
 
- Successfully test on Matlab 2016b.
+Successfully test on Matlab 2016b.
+
+# Run the code
+
+### for exact model fitting via DSP
+Test for two-view geometric model (H or F):
+```bash
+run Demo4KnownModel.m
+```
+
+### for unknown model reasoning
+Test for 2D point data:
+```bash
+run Demo4point.m
+```
+Test for two-view data:
+```bash
+run Demo4UnknownModel.m
+```
 
 Illustration of sparse subspace recovery:
 
