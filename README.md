@@ -48,13 +48,9 @@ run Demo4UnknownModel.m
 ### Unknown model reasoning results:
 
 qualitative result         |  quantitative result
-:----------------------:|:-------------------------:
+:-------------------:|:----------------------------:
 ![](https://github.com/StaRainJ/DSP/blob/main/fig/FigMatchResults.png)  |  ![](https://github.com/StaRainJ/DSP/blob/main/fig/TabModelReasoning.png)
 
- <figure class="half">
-      <img src="https://github.com/StaRainJ/DSP/blob/main/fig/FigMatchResults.png" width="200"/>
-      <img src="https://github.com/StaRainJ/DSP/blob/main/fig/TabModelReasoning.png" width="200"/>
- </figure>
 
 ### Exact model fitting results:
 [hard datasets]
