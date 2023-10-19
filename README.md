@@ -4,7 +4,7 @@ Successfully test on Matlab 2016b!
 
 VLFeat: https://www.vlfeat.org/
 
-# Run the code
+# Run the Code
 
 ### for exact model fitting via DSP
 Test for two-view geometric model (H or F):
