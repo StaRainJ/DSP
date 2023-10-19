@@ -22,11 +22,12 @@ Test for two-view data:
 run Demo4UnknownModel.m
 ```
 
-Illustration of sparse subspace recovery:
+# Method Description
+### Illustration of sparse subspace recovery:
 
 ![image](https://github.com/StaRainJ/DSP/blob/main/fig/Fig1.png)
 
-Data Embedding of Existing Methods and our DSP:
+### Data Embedding of Existing Methods and our DSP:
 
 ![image](https://github.com/StaRainJ/DSP/blob/main/fig/TabDataEmbedding.png)
 
