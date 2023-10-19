@@ -4,6 +4,7 @@
 
 ![image](https://github.com/StaRainJ/DSP/blob/main/fig/Fig1.png)
 
+Data Embedding of Existing Methods and our DSP:
 ![image](https://github.com/StaRainJ/DSP/blob/main/fig/TabDataEmbedding.png)
 
 
