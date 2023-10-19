@@ -48,11 +48,11 @@ run Demo4UnknownModel.m
 ### Unknown model reasoning results:
 [qualitative result]
 
-![image](https://github.com/StaRainJ/DSP/blob/main/fig/FigMatchResults.png)
+![image](https://github.com/StaRainJ/DSP/blob/main/fig/FigMatchResults.png)![image](https://github.com/StaRainJ/DSP/blob/main/fig/TabModelReasoning.png)
 
 [quantitative result]
 
-![image](https://github.com/StaRainJ/DSP/blob/main/fig/TabModelReasoning.png)
+
 
 ### Exact model fitting results:
 [hard datasets]
