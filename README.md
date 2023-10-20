@@ -4,7 +4,7 @@
 ### Requirements
 Successfully test with Matlab 2016b! 
 
-VLFeat: https://www.vlfeat.org/ （if vlfeat is not workable, please download then decompress it into subfun/）
+VLFeat: https://www.vlfeat.org/ （if vlfeat is not workable, please redownload then decompress it into subFun/）
 
 # Run the Code
 
