@@ -56,7 +56,7 @@ qualitative result   |  quantitative result
 ```bash
  @inproceedings{jiang2023dsp,
 	title={Robust Model Reasoning and Fitting via Dual Sparsity Pursuit},
-	author={Jiang Xingyu, Ma Jiayi},
+	author={Xingyu Jiang, Jiayi  Ma},
         booktitle={Advances in Neural Information Processing Systems},
 	year={2023}
 }
